@@ -577,12 +577,6 @@
             
             <div class="flex gap-6">
                 <a href="#" class="text-gray-500 hover:text-white transition-colors">
-                    <i data-lucide="twitter" class="w-5 h-5"></i>
-                </a>
-                <a href="#" class="text-gray-500 hover:text-white transition-colors">
-                    <i data-lucide="linkedin" class="w-5 h-5"></i>
-                </a>
-                <a href="#" class="text-gray-500 hover:text-white transition-colors">
                     <i data-lucide="instagram" class="w-5 h-5"></i>
                 </a>
             </div>
